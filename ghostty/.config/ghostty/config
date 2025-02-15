@@ -1,10 +1,16 @@
-theme = catppuccin-mocha
-# theme = GruvboxDark
-# font-family = Meslo LGS Nerd Font Mono
-# font-family = CaskaydiaMono Nerd Font
+# Set theme to Tokyo Night (replacing Catppuccin Mocha)
+theme = tokyo-night
+
+# Font settings
 font-family = CaskaydiaCove Nerd Font
 font-size = 16
+
+# Background opacity (uncomment if needed)
 # background-opacity = 0.95
+
+# Disable GTK titlebar for a cleaner look
 gtk-titlebar = false
+
+# Custom shader paths (uncomment and modify if needed)
 # custom-shader = /home/chris/bloom.glsl
-#custom-shader = /home/chris/crt.glsl
+# custom-shader = /home/chris/crt.glsl
